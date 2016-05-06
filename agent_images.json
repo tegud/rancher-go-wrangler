@@ -1,0 +1,3 @@
+[
+    { "name": "base", "image": "tlrg/tlrg-gocd-agent-docker", "description": "Base go cd agent, no build tools." }
+]
