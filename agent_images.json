@@ -1,3 +1,4 @@
 [
-    { "name": "base", "image": "tlrg/tlrg-gocd-agent-docker", "description": "Base go cd agent, no build tools." }
+    { "name": "base", "image": "tlrg/tlrg-gocd-agent-docker", "description": "Base go cd agent, no build tools." },
+    { "name": "nodejs", "image": "tlrg/tlrg-gocd-agent-docker-nodejs", "description": "NodeJS 6.1.0 only" }
 ]
